@@ -1,0 +1,63 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="hr-HR">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- TemplateBeginEditable name="doctitle" --><title>Apartmani Deković</title><!-- TemplateEndEditable --><!-- TemplateBeginEditable name="meta" -->
+<meta name="keywords" content="Apartmani Nera, Apartmani Deković, privatni smještaj u Zagrebu" />
+<meta name="description" content="" />
+<!-- TemplateEndEditable -->
+<link rel="shortcut icon" href="../favicon.ico" />
+<!--  <link href="../dizajn/print.css" rel="stylesheet" type="text/css" media="print" /> -->
+<link href="../dizajn/css.css" rel="stylesheet" type="text/css" media="screen" />
+<script src="../dizajn/jquery.js" type="text/javascript"></script>
+<script src="../dizajn/jquery.plugins.js" type="text/javascript"></script>
+<script src="../dizajn/js.js" type="text/javascript"></script>
+<!-- TemplateBeginEditable name="headReference" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<div id="outer"><div id="upbg"></div>
+	<div id="inner">
+		<div id="header">
+		  <h1><a href="../index.html">Apartmani Deković</a></h1><h2>privatni smještaj u zagrebu</h2></div><div id="splash"></div>
+		<table id="menu"><tbody>
+			<tr>
+				<td><a href="../index.html">O nama</a></td>
+				<td><a href="../ponuda.html">Ponuda</a></td>
+				<td><a href="../lokacija.html">Lokacija</a></td>
+				<td><a href="../kontakt.html">Kontakt</a></td>
+				<td><a href="../english.html">English page</a></td>
+			</tr>
+		</tbody></table>
+		<div id="primarycontent"><!-- TemplateBeginEditable name="content" -->
+	<h1>naslov</h1>
+			<p>tekst</p>
+		<!-- TemplateEndEditable --></div>
+		
+		<div id="secondarycontent">
+			<h3>Apartmani Deković</h3>
+				<a rel="lbx" title="Srebrnjak 125 : Kada dolazite kod nas, lako ćete prepoznati pravu lokaciju po velikom kućnom broju 125 na garažnim vratima." href="../slike/kontaktBIG.jpg" class="desno"><img src="../slike/kontakt.jpg" alt="" /></a>
+				<p><a href="../kontakt.html">Kontakt i rezervacije</a>:</p>
+				<address>tel.&nbsp;&nbsp; 01 2430 719<br />01 2430 187<br />mob. 091 5720 888<br />098 696 927</address>
+				<p><a href="../lokacija.html#karta">Srebrnjak 125, Zagreb</a><br />
+				<a class="emajl" href="../dekovicATnet.hr">e-mail</a></p>
+			<h3>Linkovi</h3>
+			<div class="content">
+				<ul class="linklist">
+					<li><a href="http://www.zagreb.hr/">Zagreb</a></li>
+					<li><a href="http://www.zet.hr/">ZET (gradski prijevoz)</a></li>
+					<li><a href="http://www.akz.hr/">Autobusni kolodvor</a></li>
+					<li><a href="http://www.hznet.hr/">Hrvatske željeznice</a></li>
+					<li><a href="http://www.zagreb-airport.hr/">Zračna luka Zagreb</a></li>
+					<li><a href="http://www.radio-taksi-zagreb.hr/">Radio taxi</a></li>
+					<li><a href="http://www.hak.hr/novosti/stanje-na-cestama.aspx">Stanje na cestama</a></li>
+					<li><a href="http://prognoza.hr/sedam.php?id=sedam&param=Hrvatska&code=14240">Vremenska prognoza</a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+	<div id="footer"><a href="http://www.tomislavdekovic.iz.hr/">© ..::sheshnjak::..</a></div>
+</div>
+</body>
+</html>
